@@ -1,7 +1,7 @@
 // ==========================================
 // CONFIGURACIÓN PRINCIPAL
 // ==========================================
-const numeroWhatsApp = "50369755464 "; // Reemplaza esto con tu número real
+const numeroWhatsApp = "50369755464"; // Reemplaza esto con tu número real
 const categorias = ['Todos', 'Snoopy', 'Hello Kitty', 'Gumball', 'Hollow Knight', 'Ajolotes', 'Pines de Plástico','Zelda','Rick y Morty']; // Agrega más categorías según sea necesario
 
 // ==========================================
