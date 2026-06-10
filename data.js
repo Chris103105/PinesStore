@@ -15,7 +15,7 @@ const pines = [
         fullDesc: 'Pin metálico de Snoopy con detalles precisos. Perfecto para tu colección o chaqueta.', 
         material: 'Metal y esmalte', size: '3.0 cm x 2.0 cm', 
         imageUrls: [
-            './img/Snoopy1.PNG' // Cambiar por foto real
+            './img/Snoopy1.png' // Cambiar por foto real
         ]
     },
 
